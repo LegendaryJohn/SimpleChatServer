@@ -1,0 +1,6 @@
+sep. 02, 2016 2:24:25 PM server.EchoServer runServer
+INFO: Server started. Listening on: 7777, bound to: localhost
+sep. 02, 2016 2:24:25 PM server.EchoServer handleClient
+INFO: Received the message: HELLO 
+sep. 02, 2016 2:24:25 PM server.EchoServer handleClient
+INFO: Received the message: HELLO 
